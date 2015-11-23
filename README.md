@@ -1,3 +1,8 @@
+**NOTE:** This version of `paper-styles` changes the default Roboto to Apercu
+in the typography styles, and does not include the font itself. Use at your
+own peril.
+
+***
 
 <!---
 
@@ -37,5 +42,3 @@ used in the PolymerElements demo pages
 
 We recommend importing each of these individual files, and using the style mixins
 available in each ones, rather than the aggregated `paper-styles.html` as a whole.
-
-
